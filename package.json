@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "preentregas_nodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "productManager.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon /productManager.js"
+  },
+  "author": "Juan Manuel Oxinalde",
+  "license": "MIT"
+}
